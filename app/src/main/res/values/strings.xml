@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MapDream</string>
+    <string name="visits_label_activity">Visits</string>
+    <string name="map_search">Что вы хотите найти ?</string>
+    <string name="map_position">Вы здесь</string>
+    <string name="error_get_data">Ошибка соединения с сервером, проверьте соеднинение с интернетом.</string>
+    <string name="menu_inform">Меню</string>
+    <string name="my_visits">Мои посещения</string>
+    <string name="my_favorites">Мои избранные</string>
+    <string name="see_map">Открыть карту</string>
+    <string name="control_panel">Панель управления</string>
+
+    <string name="hasPosition">Ваша позиция неизвестна, проверьте соединение со спутником.</string>
+    
+    <string name="you_visits">Ваши визиты</string>
+
+    <string name="unknown">Не известно</string>
+    <string name="phone_number">Телефон: </string>
+    <string name="address_place">Адресс: </string>
+    <string name="visits_this_place">Посетить это место</string>
+    <string name="timeVisit">Время посещения:</string>
+    <string name="delete">Удалить</string>
+    <string name="you_want_visit_in">Вы хотели посетить в %1$s:</string>
+</resources>
